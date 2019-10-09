@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FromDangNhap</string>
+    <string name="sign_up">Sign up For Racinggame</string>
+    <string name="login">Log In</string>
+</resources>
